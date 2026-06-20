@@ -7,7 +7,7 @@
 ~org-commander~ is an ambitious Emacs package designed to bridge the gap between file managers, terminal scripts, and AI-assisted workflows. It provides an Org-backed visual job orchestrator and batch processor, allowing users to execute, manage, and analyze complex file operations and shell scripts through a unified interface.
 
 ** Origins
-This project is the official evolution of the [[https://github.com/sameepvicky/dired-global-script-runner][dired-global-script-runner]] prototype. While the prototype successfully demonstrated the execution of scripts on selected Dired files, ~org-commander~ expands that vision into a highly extensible, file-manager-agnostic architecture powered by Org mode and AI.
+This project is the official evolution of the *dired-global-script-runner* ([[https://github.com/sameepvicky/dired-global-script-runner][GitHub]] | [[https://codeberg.org/sameepvicky/dired-global-script-runner][Codeberg]]) prototype. While the prototype successfully demonstrated the execution of scripts on selected Dired files, ~org-commander~ expands that vision into a highly extensible, file-manager-agnostic architecture powered by Org mode and AI.
 
 * Core Features
 - *Visual Task Management:* Leverages Org mode's native TUI features (checkboxes, folding, timestamps, properties) to act as a dynamic state-management database for background jobs and batch operations.
